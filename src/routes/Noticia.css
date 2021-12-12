@@ -1,0 +1,59 @@
+.cabecalho{
+padding: 50px;
+
+
+background: #1F1E25;
+margin-bottom: 25px;
+}
+
+.notTitle{
+background: #1F1E25;
+color: #FFF6B3;
+text-align: center;
+font-size: 65px;
+padding-right: 100px;
+padding-left: 100px;
+}
+
+.homeBut{
+background: #1F1E25;
+color: #FFF6B3;
+font-size: 65px;
+float: left;
+
+
+}
+
+
+.autor{
+color: white;
+font-weight: bold;
+text-align: center;
+
+}
+
+.data{
+color: white;
+font-weight: bold;
+text-align: center;
+
+
+
+
+}
+
+article{
+text-align: center;
+
+
+  
+}
+.conteudo{
+color: white;
+padding-left: 200px;
+padding-right: 200px;
+text-align: justify
+
+
+
+}
